@@ -1,0 +1,17 @@
+/*
+  Every site needs to have:
+    url: The url of your site! Host it on surge.sh
+    name: The name of your site! (Don't forget single quotes!)
+    author: Your name or username or url or whatever 
+    icon: An image for your site! (sfw???)
+*/
+{
+  "sites": [
+    { 
+      "url": "//byronhulcher.github.io/hompage",
+      "name": "byron hompage website",
+      "author": "@hypirlink",
+      "icon": "//byronhulcher.github.io/hompage/icon.gif"
+    }
+  ] 
+}
